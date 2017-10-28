@@ -434,17 +434,17 @@ fill: #000000;
 
 @font-face {
 	font-family: SegoeUIBlack_b;
-	src: url(&quot;fonts/SegoeUIBlack_b.woff&quot;) format(&quot;woff&quot;);
+	src: url(&quot;signaleringskaart-bronbestanden/fonts/SegoeUIBlack_b.woff&quot;) format(&quot;woff&quot;);
 }
 
 @font-face {
 	font-family: SegoeUIBlack_h;
-	src: url(&quot;fonts/SegoeUIBlack_h.woff&quot;) format(&quot;woff&quot;);
+	src: url(&quot;signaleringskaart-bronbestanden/fonts/SegoeUIBlack_h.woff&quot;) format(&quot;woff&quot;);
 }
 
 @font-face {
 	font-family: Calibri-Bold_m;
-	src: url(&quot;fonts/Calibri-Bold_m.woff&quot;) format(&quot;woff&quot;);
+	src: url(&quot;signaleringskaart-bronbestanden/fonts/Calibri-Bold_m.woff&quot;) format(&quot;woff&quot;);
 }
 
 </style>
