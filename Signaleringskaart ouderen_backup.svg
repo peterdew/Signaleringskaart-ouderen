@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Page 1 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   x="0"
+   y="0"
+   width="909"
+   height="1286"
+   viewBox="0 0 909 1286"
+   version="1.1"
+   style="display: block;margin-left: auto;margin-right: auto;"
+   id="svg3089"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Signaleringskaart ouderen.svg">
+  <metadata
+     id="metadata3191">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="657"
+     id="namedview3189"
+     showgrid="false"
+     inkscape:zoom="1.0337175"
+     inkscape:cx="350.2373"
+     inkscape:cy="946.30667"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3089" />
+  <defs
+     id="defs3091">
+    <style
+       type="text/css"
+       id="style3093">
+
+.g1_1{
+fill: #F7CAAC;
+}
+
+.s1_1{
+font-size: 30.62px;
+font-family: SegoeUIBlack_b;
+fill: #E67300;
+}
+.s2_1{
+font-size: 26.03px;
+font-family: SegoeUIBlack_b;
+fill: #C55A11;
+}
+.s3_1{
+font-size: 26.03px;
+font-family: SegoeUIBlack_h;
+fill: #C55A11;
+}
+.s4_1{
+font-size: 21.45px;
+font-family: SegoeUIBlack_b;
+fill: #C55A11;
+}
+.s5_1{
+font-size: 18.33px;
+font-family: Calibri-Bold_m;
+fill: #000000;
+}
+
+</style>
+  </defs>
+  <path
+     d="M0,0 L0,1286 L909,1286 L909,0 Z "
+     fill="#FFFFFF"
+     stroke="none"
+     id="path3095" />
+  <path
+     fill-rule="evenodd"
+     d="M0,1286.2l909.5,0L909.5,0L0,0L0,1286.2Z"
+     class="g1_1"
+     id="path3097" />
+  <image
+     sodipodi:absref="C:\temp\signaleringskaart-bronbestanden/img/1.png"
+     xlink:href="signaleringskaart-bronbestanden/img/1.png"
+     preserveAspectRatio="none"
+     x="0"
+     y="0"
+     width="909"
+     height="1284"
+     id="image3099" />
+  <text
+     x="110"
+     y="141"
+     dx="0,-0.1,0,-0.1,0,0,0,0,0,-0.1,0,0,-0.1,0,0,-0.1,0,0,-0.1,0,0,0,0,-0.2,0,-0.1,0,0,-0.1,0,0.1,0,-0.2,0,0,0"
+     class="s1_1"
+     id="text3101">SIGNALERINGSKAART KWETSBARE OUDEREN </text>
+  <text
+     x="212"
+     y="193"
+     dx="0,0,0.1,0,-0.1,0,0,-0.1,0,0,-0.1,0.1,-0.2,-0.1,0,0.1,0,-0.1,0,0,-0.1,0.1,0,-0.1,-0.2,0.1,0,0,-0.1"
+     class="s2_1"
+     id="text3103">HOU DE REGIE LANGER IN HANDEN</text>
+  <text
+     x="669"
+     y="193"
+     dx="0"
+     class="s3_1"
+     id="text3105">…</text>
+  <text
+     x="250"
+     y="685"
+     dx="0,0,0.1,-0.2,-0.1,0.1,0,0,-0.1,0.1,-0.1,-0.1,0.1,0,-0.1,0,0,0,-0.1,-0.2,0.1,0,-0.1,0.1,-0.2,0,0,0,-0.1,0,0,0,0"
+     class="s4_1"
+     id="text3107">HERKENT U ÉÉN VAN DEZE SIGNALEN? </text>
+  <text
+     x="245"
+     y="728"
+     dx="0,0,-0.1,0.1,-0.1,0.1,-0.1,0.1,0,-0.3,0,0.1,-0.3,-0.1,0.1,-0.1,0.1,-0.1,0.1,-0.3,0.3,-0.1,0.1,-0.1,0,-0.1,0,-0.1,0,0.1,-0.1,0"
+     class="s4_1"
+     id="text3109">NEEM CONTACT OP MET DE HUISARTS!</text>
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/2.png"
+     xlink:href="signaleringskaart-bronbestanden/img/2.png"
+     preserveAspectRatio="none"
+     x="167"
+     y="991"
+     width="136"
+     height="137"
+     id="image3111" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/3.png"
+     xlink:href="signaleringskaart-bronbestanden//img/3.png"
+     preserveAspectRatio="none"
+     x="104"
+     y="1134"
+     width="264"
+     height="52"
+     id="image3113" />
+  <text
+     x="114"
+     y="1150"
+     dx="0,-0.1,-0.1,0,0.1,0,0,0,0.1,-0.1,0.1,0,-0.1,0.1,-0.1,-0.1,0,0,0,0.1,0,0,0.1,-0.1,-0.1,0,0.1,-0.1,0.1,0.1,-0.1,0.1"
+     class="s5_1"
+     id="text3115">Medicatie vergeten te bestellen </text>
+  <text
+     x="163"
+     y="1173"
+     dx="0,0,0.1,0.1,0,0,0.1,0,-0.1,-0.1,0,0.1,0,-0.1,0,0.1,-0.1,-0.1,0,0.1"
+     class="s5_1"
+     id="text3117">of te vaak besteld? </text>
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/4.png"
+     xlink:href="signaleringskaart-bronbestanden/img/4.png"
+     preserveAspectRatio="none"
+     x="407"
+     y="767"
+     width="110"
+     height="188"
+     id="image3119" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/5.png"
+     xlink:href="signaleringskaart-bronbestanden/img/5.png"
+     preserveAspectRatio="none"
+     x="315"
+     y="964"
+     width="310"
+     height="95"
+     id="image3121" />
+  <text
+     x="326"
+     y="981"
+     dx="0,0,-0.1,0.1,0.1,-0.1,0,0.1,0.1,-0.2,0.1,-0.1,0,-0.1,0,0.1,-0.1,0.1,0,-0.1,0,0,0,0,0.1,0,-0.1,0,0.1,0,-0.1,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1"
+     class="s5_1"
+     id="text3123">Bellen; Niet uit (goed) uit de woorden </text>
+  <text
+     x="349"
+     y="1003"
+     dx="0,0,0,-0.1,-0.1,0,0.1,0.1,0,-0.1,0,0,-0.1,0,-0.1,0,0.1,-0.1,0.1,-0.1,0.1,-0.1,0,-0.1,0,0.1,0,0.1,0,-0.1,0.1"
+     class="s5_1"
+     id="text3125">komen. Zinnen die niet kloppen </text>
+  <text
+     x="339"
+     y="1026"
+     dx="0,0,-0.1,-0.1,0,0.1,-0.1,0,0,0.1,-0.1,0,0.1,-0.1,0.1,0,-0.1,0.1,0,-0.1,0.1,0,-0.1,-0.1,-0.1,-0.1,0.1,0.1,-0.1,0,-0.1,0.5"
+     class="s5_1"
+     id="text3127">Geen antwoord op de vraag geven </text>
+  <text
+     x="399"
+     y="1048"
+     dx="0,0,0,0.1,0,-0.2,0.1,0,-0.1,0.1,-0.1,0,-0.1,0.1,0,-0.1,0.1,0.1,-0.1,0.1"
+     class="s5_1"
+     id="text3129">In herhaling vallen </text>
+  <image
+     sodipodi:absref="C:\temp\signaleringskaart-bronbestanden//img/6.png"
+     xlink:href="signaleringskaart-bronbestanden//img/6.png"
+     preserveAspectRatio="none"
+     x="110"
+     y="398"
+     width="173"
+     height="173"
+     id="image3131" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/7.png"
+     xlink:href="signaleringskaart-bronbestanden/img/7.png"
+     preserveAspectRatio="none"
+     x="93"
+     y="567"
+     width="207"
+     height="53"
+     id="image3133" />
+  <text
+     x="103"
+     y="584"
+     dx="0,0,-0.1,0.1,0,-0.1,-0.1,0.1,0,-0.1,0.1,0,-0.1,0,0,0.1,-0.1,0.1,0,-0.1,0,0.1,-0.1,0"
+     class="s5_1"
+     id="text3135">Verkeerde kant uitlopen </text>
+  <text
+     x="123"
+     y="606"
+     dx="0,0,0.1,0.1,0.1,-0.1,-0.1,0.1,-0.1,0.1,-0.1,0,-0.1,0.1,-0.1,0,0,0,0.1"
+     class="s5_1"
+     id="text3137">of weg niet weten? </text>
+  <image
+     sodipodi:absref="C:\temp\signaleringskaart-bronbestanden/img/8.png"
+     xlink:href="signaleringskaart-bronbestanden/img/8.png"
+     preserveAspectRatio="none"
+     x="384"
+     y="449"
+     width="146"
+     height="146"
+     id="image3139" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/9.png"
+     xlink:href="signaleringskaart-bronbestanden/img/9.png"
+     preserveAspectRatio="none"
+     x="316"
+     y="606"
+     width="277"
+     height="30"
+     id="image3141" />
+  <text
+     x="327"
+     y="623"
+     dx="0,0,0,0.1,-0.1,0,0.1,-0.1,0.1,0.1,0.1,-0.1,-0.1,-0.1,0.1,0.1,-0.1,0.1,-0.1,0.1,0,0,-0.1,0.1,-0.1,0,0,0.1,-0.1,0,0.1,-0.1,-0.1,0.2"
+     class="s5_1"
+     id="text3143">Buren of familie uiten hun zorgen </text>
+  <image
+     sodipodi:absref="C:\temp\signaleringskaart-bronbestanden//img/10.png"
+     xlink:href="signaleringskaart-bronbestanden//img/10.png"
+     preserveAspectRatio="none"
+     x="684"
+     y="408"
+     width="67"
+     height="147"
+     id="image3145" />
+  <image
+     sodipodi:absref="C:\temp\signaleringskaart-bronbestanden/img/11.png"
+     xlink:href="signaleringskaart-bronbestanden/img/11.png"
+     preserveAspectRatio="none"
+     x="636"
+     y="569"
+     width="168"
+     height="51"
+     id="image3147" />
+  <text
+     x="649"
+     y="586"
+     dx="0,0,-0.1,0.1,0.1,0,-0.1,0,0.1,0,-0.1,0.1,0.1,0.1,-0.1,-0.2,0.1,0,0.1"
+     class="s5_1"
+     id="text3149">Gewichtsverlies of </text>
+  <text
+     x="647"
+     y="609"
+     dx="0,-0.1,-0.1,-0.1,-0.1,0.1,0,-0.1,0.1,0.1,-0.1,0.2,0,0.1,0.1,-0.1,0.1,-0.1,-0.1"
+     class="s5_1"
+     id="text3151">magerder eruitzien </text>
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/12.png"
+     xlink:href="signaleringskaart-bronbestanden/img/12.png"
+     preserveAspectRatio="none"
+     x="662"
+     y="727"
+     width="148"
+     height="147"
+     id="image3153" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/13.png"
+     xlink:href="signaleringskaart-bronbestanden/img/13.png"
+     preserveAspectRatio="none"
+     x="651"
+     y="869"
+     width="162"
+     height="26"
+     id="image3155" />
+  <text
+     x="662"
+     y="886"
+     dx="0,0.1,0.1,0,-0.1,0.1,-0.1,-0.1,0,0.1,0,-0.1,0.1,-0.1,-0.1,0,0,0.2"
+     class="s5_1"
+     id="text3157">Afspraak vergeten </text>
+  <image
+     sodipodi:absref="C:\temp\signaleringskaart-bronbestanden/img/14.png"
+     xlink:href="signaleringskaart-bronbestanden/img/14.png"
+     preserveAspectRatio="none"
+     x="518"
+     y="223"
+     width="147"
+     height="147"
+     id="image3159" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/15.png"
+     xlink:href="signaleringskaart-bronbestanden/img/15.png"
+     preserveAspectRatio="none"
+     x="544"
+     y="386"
+     width="70"
+     height="24"
+     id="image3161" />
+  <text
+     x="555"
+     y="403"
+     dx="0,0,-0.1,0.1,0.1,-0.1,0.1"
+     class="s5_1"
+     id="text3163">Vallen </text>
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/16.png"
+     xlink:href="signaleringskaart-bronbestanden/img/16.png"
+     preserveAspectRatio="none"
+     x="141"
+     y="755"
+     width="126"
+     height="147"
+     id="image3165" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/17.png"
+     xlink:href="signaleringskaart-bronbestanden/img/17.png"
+     preserveAspectRatio="none"
+     x="104"
+     y="907"
+     width="204"
+     height="25"
+     id="image3167" />
+  <text
+     x="115"
+     y="925"
+     dx="0,0,-0.1,0.1,-0.1,0,0,-0.1,0.1,0.1,0,-0.1,0.1,0,-0.1,0,0.1,-0.1,-0.1,0,0.1,-0.1,0.1"
+     class="s5_1"
+     id="text3169">Verandering van gedrag </text>
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/18.png"
+     xlink:href="signaleringskaart-bronbestanden/img/18.png"
+     preserveAspectRatio="none"
+     x="230"
+     y="383"
+     width="200"
+     height="26"
+     id="image3171" />
+  <text
+     x="240"
+     y="400"
+     dx="0,0.1,0,0,-0.1,0.1,0,0.1,0.1,-0.1,-0.1,0.1,-0.1,-0.1,0.1,0,0.1,0,-0.1,0,0"
+     class="s5_1"
+     id="text3173">Onverzorgd geworden? </text>
+  <image
+     sodipodi:absref="C:\temp\signaleringskaart-bronbestanden/img/19.png"
+     xlink:href="signaleringskaart-bronbestanden/img/19.png"
+     preserveAspectRatio="none"
+     x="279"
+     y="224"
+     width="96"
+     height="147"
+     id="image3175" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/20.png"
+     xlink:href="signaleringskaart-bronbestanden/img/20.png"
+     preserveAspectRatio="none"
+     x="638"
+     y="954"
+     width="129"
+     height="163"
+     id="image3177" />
+  <image
+     sodipodi:absref="C:\temp\Signaleringskaart_ouderen___test_concept\Signaleringskaart_ouderen___test_concept\1/img/21.png"
+     xlink:href="signaleringskaart-bronbestanden/img/21.png"
+     preserveAspectRatio="none"
+     x="563"
+     y="1128"
+     width="271"
+     height="68"
+     id="image3179" />
+  <text
+     x="574"
+     y="1145"
+     dx="0,0,-0.1,0,0,-0.1,0.1,0.1,0,-0.1,-0.1,0,0.1,0,-0.1,0.1,0.1,-0.1,0,-0.1,0,0.1,0,-0.1,-0.1,0,0.1,-0.1,0,0,0.1,-0.1"
+     class="s5_1"
+     id="text3181">Handelingen verlopen niet goed; </text>
+  <text
+     x="596"
+     y="1167"
+     dx="0,-0.1,-0.1,0,0,0.1,0,0.1,0,0.1,-0.1,0.1,0,0,-0.1,0,0,-0.1,0.1,-0.1,0,0.1,0,-0.1,0,0.1,-0.1,-0.1,0,0"
+     class="s5_1"
+     id="text3183">veters strikken, jas sluiten, </text>
+  <text
+     x="615"
+     y="1190"
+     dx="0,0,0.1,0,-0.1,0.1,-0.1,0,0.1,-0.1,0,0,0,-0.1,0.1,0,0,0,0.1,-0.1,0,0,-0.1"
+     class="s5_1"
+     id="text3185">spullen in de tas doen </text>
+  <!-- Any embedded fonts defined here -->
+  <style
+     type="text/css"
+     id="style3187">
+
+@font-face {
+	font-family: SegoeUIBlack_b;
+	src: url(&quot;signaleringskaart-bronbestanden/fonts/SegoeUIBlack_b.woff&quot;) format(&quot;woff&quot;);
+}
+
+@font-face {
+	font-family: SegoeUIBlack_h;
+	src: url(&quot;signaleringskaart-bronbestanden/fonts/SegoeUIBlack_h.woff&quot;) format(&quot;woff&quot;);
+}
+
+@font-face {
+	font-family: Calibri-Bold_m;
+	src: url(&quot;signaleringskaart-bronbestanden/fonts/Calibri-Bold_m.woff&quot;) format(&quot;woff&quot;);
+}
+
+</style>
+</svg>
