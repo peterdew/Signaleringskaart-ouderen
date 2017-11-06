@@ -1,7 +1,7 @@
 # Signaleringskaart-ouderen
 Signaleringskaart die duidelijk aangeeft waneer je je zorgen moet maken over de oudere in je directe omgeving, en welke verschijnselen bij het ouder worden horen. In de ouderenzorg is het belangrijk om pro-actief te signaleren wanneer het minder gaat met de gezondheid, dat voorkomt veel ellende. De directe omgeving wordt daarbij echter nu veel te weinig betrokken. Deze signaleringskaart moet op toegankelijke wijze met pictogrammen duidelijk maken waarop de omgeving kan letten.
 
-De kaart in zijn huidige staat van ontwikkeling ziet er zo uit: 
+De kaart in zijn huidige staat van ontwikkeling ziet er zo uit: <br/>
 ![Export van de Signaleringskaart](Signaleringskaart_export.png "Export van de Signaleringskaart")
 ***
 
