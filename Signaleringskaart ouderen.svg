@@ -105,14 +105,14 @@ fill: #000000;
      inkscape:connector-curvature="0"
      style="fill:#f7caac;fill-rule:evenodd" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/1.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/1.png"
      xlink:href="signaleringskaart-bronbestanden/img/1.png"
-     id="image3099"
-     height="1284"
-     width="909"
-     y="0"
+     preserveAspectRatio="none"
      x="0"
-     preserveAspectRatio="none" />
+     y="0"
+     width="909"
+     height="1284"
+     id="image3099" />
   <text
      x="110"
      y="141"
@@ -149,23 +149,23 @@ fill: #000000;
      id="text3109"
      style="font-size:21.45000076px;line-height:0%;font-family:SegoeUIBlack_b;fill:#c55a11">NEEM CONTACT OP MET DE HUISARTS!</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/2.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/2.png"
      xlink:href="signaleringskaart-bronbestanden/img/2.png"
-     id="image3111"
-     height="137"
-     width="136"
-     y="991"
+     preserveAspectRatio="none"
      x="167"
-     preserveAspectRatio="none" />
+     y="991"
+     width="136"
+     height="137"
+     id="image3111" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden//img/3.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden//img/3.png"
      xlink:href="signaleringskaart-bronbestanden//img/3.png"
-     id="image3113"
-     height="52"
-     width="264"
-     y="1134"
+     preserveAspectRatio="none"
      x="104"
-     preserveAspectRatio="none" />
+     y="1134"
+     width="264"
+     height="52"
+     id="image3113" />
   <text
      x="114"
      y="1150"
@@ -181,23 +181,23 @@ fill: #000000;
      id="text3117"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">of te vaak besteld?</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/4.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/4.png"
      xlink:href="signaleringskaart-bronbestanden/img/4.png"
-     id="image3119"
-     height="188"
-     width="110"
-     y="767"
+     preserveAspectRatio="none"
      x="407"
-     preserveAspectRatio="none" />
+     y="767"
+     width="110"
+     height="188"
+     id="image3119" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/5.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/5.png"
      xlink:href="signaleringskaart-bronbestanden/img/5.png"
-     id="image3121"
-     height="95"
-     width="310"
-     y="964"
+     preserveAspectRatio="none"
      x="315"
-     preserveAspectRatio="none" />
+     y="964"
+     width="310"
+     height="95"
+     id="image3121" />
   <text
      x="326"
      y="981"
@@ -227,23 +227,23 @@ fill: #000000;
      id="text3129"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">In herhaling vallen</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden//img/6.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden//img/6.png"
      xlink:href="signaleringskaart-bronbestanden//img/6.png"
-     id="image3131"
-     height="173"
-     width="173"
-     y="398"
+     preserveAspectRatio="none"
      x="110"
-     preserveAspectRatio="none" />
+     y="398"
+     width="173"
+     height="173"
+     id="image3131" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/7.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/7.png"
      xlink:href="signaleringskaart-bronbestanden/img/7.png"
-     id="image3133"
-     height="53"
-     width="207"
-     y="567"
+     preserveAspectRatio="none"
      x="93"
-     preserveAspectRatio="none" />
+     y="567"
+     width="207"
+     height="53"
+     id="image3133" />
   <text
      x="103"
      y="584"
@@ -259,23 +259,23 @@ fill: #000000;
      id="text3137"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">of weg niet weten?</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/8.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/8.png"
      xlink:href="signaleringskaart-bronbestanden/img/8.png"
-     id="image3139"
-     height="146"
-     width="146"
-     y="449"
+     preserveAspectRatio="none"
      x="384"
-     preserveAspectRatio="none" />
+     y="449"
+     width="146"
+     height="146"
+     id="image3139" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/9.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/9.png"
      xlink:href="signaleringskaart-bronbestanden/img/9.png"
-     id="image3141"
-     height="30"
-     width="277"
-     y="606"
+     preserveAspectRatio="none"
      x="316"
-     preserveAspectRatio="none" />
+     y="606"
+     width="277"
+     height="30"
+     id="image3141" />
   <text
      x="327"
      y="623"
@@ -284,23 +284,23 @@ fill: #000000;
      id="text3143"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">Buren of familie uiten hun zorgen</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden//img/10.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden//img/10.png"
      xlink:href="signaleringskaart-bronbestanden//img/10.png"
-     id="image3145"
-     height="147"
-     width="67"
-     y="408"
+     preserveAspectRatio="none"
      x="684"
-     preserveAspectRatio="none" />
+     y="408"
+     width="67"
+     height="147"
+     id="image3145" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/11.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/11.png"
      xlink:href="signaleringskaart-bronbestanden/img/11.png"
-     id="image3147"
-     height="51"
-     width="168"
-     y="569"
+     preserveAspectRatio="none"
      x="636"
-     preserveAspectRatio="none" />
+     y="569"
+     width="168"
+     height="51"
+     id="image3147" />
   <text
      x="649"
      y="586"
@@ -316,23 +316,23 @@ fill: #000000;
      id="text3151"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">magerder eruitzien</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/12.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/12.png"
      xlink:href="signaleringskaart-bronbestanden/img/12.png"
-     id="image3153"
-     height="147"
-     width="148"
-     y="727"
+     preserveAspectRatio="none"
      x="662"
-     preserveAspectRatio="none" />
+     y="727"
+     width="148"
+     height="147"
+     id="image3153" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/13.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/13.png"
      xlink:href="signaleringskaart-bronbestanden/img/13.png"
-     id="image3155"
-     height="26"
-     width="162"
-     y="869"
+     preserveAspectRatio="none"
      x="651"
-     preserveAspectRatio="none" />
+     y="869"
+     width="162"
+     height="26"
+     id="image3155" />
   <text
      x="662"
      y="886"
@@ -341,23 +341,23 @@ fill: #000000;
      id="text3157"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">Afspraak vergeten</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/14.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/14.png"
      xlink:href="signaleringskaart-bronbestanden/img/14.png"
-     id="image3159"
-     height="147"
-     width="147"
+     preserveAspectRatio="none"
+     x="518.90692"
      y="223"
-     x="518"
-     preserveAspectRatio="none" />
+     width="147"
+     height="147"
+     id="image3159" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/15.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/15.png"
      xlink:href="signaleringskaart-bronbestanden/img/15.png"
-     id="image3161"
-     height="24"
-     width="70"
-     y="386"
+     preserveAspectRatio="none"
      x="544"
-     preserveAspectRatio="none" />
+     y="386"
+     width="70"
+     height="24"
+     id="image3161" />
   <text
      x="555"
      y="403"
@@ -366,23 +366,23 @@ fill: #000000;
      id="text3163"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">Vallen</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/16.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/16.png"
      xlink:href="signaleringskaart-bronbestanden/img/16.png"
-     id="image3165"
-     height="147"
-     width="126"
-     y="755"
+     preserveAspectRatio="none"
      x="141"
-     preserveAspectRatio="none" />
+     y="755"
+     width="126"
+     height="147"
+     id="image3165" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/17.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/17.png"
      xlink:href="signaleringskaart-bronbestanden/img/17.png"
-     id="image3167"
-     height="25"
-     width="204"
-     y="907"
+     preserveAspectRatio="none"
      x="104"
-     preserveAspectRatio="none" />
+     y="907"
+     width="204"
+     height="25"
+     id="image3167" />
   <text
      x="115"
      y="925"
@@ -391,14 +391,14 @@ fill: #000000;
      id="text3169"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">Verandering van gedrag</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/18.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/18.png"
      xlink:href="signaleringskaart-bronbestanden/img/18.png"
-     id="image3171"
-     height="26"
-     width="200"
-     y="383"
+     preserveAspectRatio="none"
      x="230"
-     preserveAspectRatio="none" />
+     y="383"
+     width="200"
+     height="26"
+     id="image3171" />
   <text
      x="240"
      y="400"
@@ -407,32 +407,32 @@ fill: #000000;
      id="text3173"
      style="font-size:18.32999992px;line-height:0%;font-family:Calibri-Bold_m;fill:#000000">Onverzorgd geworden?</text>
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/19.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/19.png"
      xlink:href="signaleringskaart-bronbestanden/img/19.png"
-     id="image3175"
-     height="147"
-     width="96"
-     y="224"
+     preserveAspectRatio="none"
      x="279"
-     preserveAspectRatio="none" />
+     y="224"
+     width="96"
+     height="147"
+     id="image3175" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/20.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/20.png"
      xlink:href="signaleringskaart-bronbestanden/img/20.png"
-     id="image3177"
-     height="163"
-     width="129"
-     y="954"
+     preserveAspectRatio="none"
      x="638"
-     preserveAspectRatio="none" />
+     y="954"
+     width="129"
+     height="163"
+     id="image3177" />
   <image
-     sodipodi:absref="G:\Repositories\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/21.png"
+     sodipodi:absref="G:\Repositories\myforks\Signaleringskaart-ouderen\signaleringskaart-bronbestanden/img/21.png"
      xlink:href="signaleringskaart-bronbestanden/img/21.png"
-     id="image3179"
-     height="68"
-     width="271"
-     y="1128"
+     preserveAspectRatio="none"
      x="563"
-     preserveAspectRatio="none" />
+     y="1128"
+     width="271"
+     height="68"
+     id="image3179" />
   <text
      x="574"
      y="1145"
