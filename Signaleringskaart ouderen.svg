@@ -61,35 +61,6 @@
        id="style3093"
        type="text/css">
 
-.g1_1{
-fill: #F7CAAC;
-}
-
-.s1_1{
-font-size: 30.62px;
-font-family: SegoeUIBlack_b;
-fill: #E67300;
-}
-.s2_1{
-font-size: 26.03px;
-font-family: SegoeUIBlack_b;
-fill: #C55A11;
-}
-.s3_1{
-font-size: 26.03px;
-font-family: SegoeUIBlack_h;
-fill: #C55A11;
-}
-.s4_1{
-font-size: 21.45px;
-font-family: SegoeUIBlack_b;
-fill: #C55A11;
-}
-.s5_1{
-font-size: 18.33px;
-font-family: Calibri-Bold_m;
-fill: #000000;
-}
 
 </style>
   </defs>
@@ -102,7 +73,6 @@ fill: #000000;
      style="fill:#f7caac;fill-rule:evenodd"
      inkscape:connector-curvature="0"
      id="path3097"
-     class="g1_1"
      d="M 0,1286.2 H 909.5 V 0 H 0 Z" />
   <image
      preserveAspectRatio="none"
@@ -115,14 +85,12 @@ fill: #000000;
   <text
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.62000084px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e67300"
      id="text3101"
-     class="s1_1"
      dx="0 -0.1 0 -0.1 0 0 0 0 0 -0.1 0 0 -0.1 0 0 -0.1 0 0 -0.1 0 0 0 0 -0.2 0 -0.1 0 0 -0.1 0 0.1 0 -0.2 0 0 0"
      y="142.81384"
      x="172.57755">SIGNALERINGSKAART KWETSBARE OUDEREN</text>
   <text
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.03000012px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#c55a11;"
      id="text3103"
-     class="s2_1"
      dx="0 0 0.1 0 -0.1 0 0 -0.1 0 0 -0.1 0.1 -0.2 -0.1 0 0.1 0 -0.1 0 0 -0.1 0.1 0 -0.1 -0.2 0.1 0 0 -0.1"
      y="193.90692"
      x="260.0668">
@@ -133,14 +101,12 @@ fill: #000000;
   <text
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c55a11"
      id="text3107"
-     class="s4_1"
      dx="0 0 0.1 -0.2 -0.1 0.1 0 0 -0.1 0.1 -0.1 -0.1 0.1 0 -0.1 0 0 0 -0.1 -0.2 0.1 0 -0.1 0.1 -0.2 0 0 0 -0.1 0 0 0 0"
      y="685"
      x="264.51074">HERKENT U ÉÉN VAN DEZE SIGNALEN?</text>
   <text
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c55a11"
      id="text3109"
-     class="s4_1"
      dx="0 0 -0.1 0.1 -0.1 0.1 -0.1 0.1 0 -0.30000001 0 0.1 -0.30000001 -0.1 0.1 -0.1 0.1 -0.1 0.1 -0.30000001 0.30000001 -0.1 0.1 -0.1 0 -0.1 0 -0.1 0 0.1 -0.1 0"
      y="723.46539"
      x="259.51074">NEEM CONTACT OP MET DE HUISARTS!</text>
@@ -528,14 +494,12 @@ te8ve9nLmjEdhadL/x8dMW18ye8LlwAAAABJRU5ErkJggg==
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3115"
-     class="s5_1"
      dx="0 -0.1 -0.1 0 0.1 0 0 0 0.1 -0.1 0.1 0 -0.1 0.1 -0.1 -0.1 0 0 0 0.1 0 0 0.1 -0.1 -0.1 0 0.1 -0.1 0.1 0.1 -0.1 0.1"
      y="1150"
      x="114">Medicatie vergeten te bestellen</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3117"
-     class="s5_1"
      dx="0 0 0.1 0.1 0 0 0.1 0 -0.1 -0.1 0 0.1 0 -0.1 0 0.1 -0.1 -0.1 0 0.1"
      y="1173"
      x="163">of te vaak besteld?</text>
@@ -919,28 +883,24 @@ RU5ErkJggg==
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3123"
-     class="s5_1"
      dx="0 0 -0.1 0.1 0.1 -0.1 0 0.1 0.1 -0.2 0.1 -0.1 0 -0.1 0 0.1 -0.1 0.1 0 -0.1 0 0 0 0 0.1 0 -0.1 0 0.1 0 -0.1 -0.1 0.1 0 -0.1 0.1 0 -0.1 0.1"
      y="981"
      x="326">Bellen; Niet uit (goed) uit de woorden</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3125"
-     class="s5_1"
      dx="0 0 0 -0.1 -0.1 0 0.1 0.1 0 -0.1 0 0 -0.1 0 -0.1 0 0.1 -0.1 0.1 -0.1 0.1 -0.1 0 -0.1 0 0.1 0 0.1 0 -0.1 0.1"
      y="1003"
      x="349">komen. Zinnen die niet kloppen</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3127"
-     class="s5_1"
      dx="0 0 -0.1 -0.1 0 0.1 -0.1 0 0 0.1 -0.1 0 0.1 -0.1 0.1 0 -0.1 0.1 0 -0.1 0.1 0 -0.1 -0.1 -0.1 -0.1 0.1 0.1 -0.1 0 -0.1 0.5"
      y="1026"
      x="339">Geen antwoord op de vraag geven</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3129"
-     class="s5_1"
      dx="0 0 0 0.1 0 -0.2 0.1 0 -0.1 0.1 -0.1 0 -0.1 0.1 0 -0.1 0.1 0.1 -0.1 0.1"
      y="1048"
      x="399">In herhaling vallen</text>
@@ -964,14 +924,12 @@ RU5ErkJggg==
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3135"
-     class="s5_1"
      dx="0 0 -0.1 0.1 0 -0.1 -0.1 0.1 0 -0.1 0.1 0 -0.1 0 0 0.1 -0.1 0.1 0 -0.1 0 0.1 -0.1 0"
      y="584"
      x="103">Verkeerde kant uitlopen</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3137"
-     class="s5_1"
      dx="0 0 0.1 0.1 0.1 -0.1 -0.1 0.1 -0.1 0.1 -0.1 0 -0.1 0.1 -0.1 0 0 0 0.1"
      y="606"
      x="123">of weg niet weten?</text>
@@ -995,7 +953,6 @@ RU5ErkJggg==
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3143"
-     class="s5_1"
      dx="0 0 0 0.1 -0.1 0 0.1 -0.1 0.1 0.1 0.1 -0.1 -0.1 -0.1 0.1 0.1 -0.1 0.1 -0.1 0.1 0 0 -0.1 0.1 -0.1 0 0 0.1 -0.1 0 0.1 -0.1 -0.1 0.2"
      y="623"
      x="327">Buren of familie uiten hun zorgen</text>
@@ -1019,14 +976,12 @@ RU5ErkJggg==
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3149"
-     class="s5_1"
      dx="0 0 -0.1 0.1 0.1 0 -0.1 0 0.1 0 -0.1 0.1 0.1 0.1 -0.1 -0.2 0.1 0 0.1"
      y="586"
      x="649">Gewichtsverlies of</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3151"
-     class="s5_1"
      dx="0 -0.1 -0.1 -0.1 -0.1 0.1 0 -0.1 0.1 0.1 -0.1 0.2 0 0.1 0.1 -0.1 0.1 -0.1 -0.1"
      y="609"
      x="647">magerder eruitzien</text>
@@ -1119,7 +1074,6 @@ wP8BtoqSpv/qUEIAAAAASUVORK5CYII=
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3157"
-     class="s5_1"
      dx="0 0.1 0.1 0 -0.1 0.1 -0.1 -0.1 0 0.1 0 -0.1 0.1 -0.1 -0.1 0 0 0.2"
      y="886"
      x="662">Afspraak vergeten</text>
@@ -1143,7 +1097,6 @@ wP8BtoqSpv/qUEIAAAAASUVORK5CYII=
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3163"
-     class="s5_1"
      dx="0 0 -0.1 0.1 0.1 -0.1 0.1"
      y="403"
      x="555">Vallen</text>
@@ -1491,7 +1444,6 @@ rwM6cS8HFwPTqkJdk/Xm5zNWSut9xghD6DdC+/8DQ5JUQyq9oDUAAAAASUVORK5CYII=
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3169"
-     class="s5_1"
      dx="0 0 -0.1 0.1 -0.1 0 0 -0.1 0.1 0.1 0 -0.1 0.1 0 -0.1 0 0.1 -0.1 -0.1 0 0.1 -0.1 0.1"
      y="925"
      x="115">Verandering van gedrag</text>
@@ -1507,7 +1459,6 @@ rwM6cS8HFwPTqkJdk/Xm5zNWSut9xghD6DdC+/8DQ5JUQyq9oDUAAAAASUVORK5CYII=
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3173"
-     class="s5_1"
      dx="0 0.1 0 0 -0.1 0.1 0 0.1 0.1 -0.1 -0.1 0.1 -0.1 -0.1 0.1 0 0.1 0 -0.1 0 0"
      y="400"
      x="240">Onverzorgd geworden?</text>
@@ -1875,21 +1826,18 @@ SUVORK5CYII=
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3181"
-     class="s5_1"
      dx="0 0 -0.1 0 0 -0.1 0.1 0.1 0 -0.1 -0.1 0 0.1 0 -0.1 0.1 0.1 -0.1 0 -0.1 0 0.1 0 -0.1 -0.1 0 0.1 -0.1 0 0 0.1 -0.1"
      y="1145"
      x="574">Handelingen verlopen niet goed;</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3183"
-     class="s5_1"
      dx="0 -0.1 -0.1 0 0 0.1 0 0.1 0 0.1 -0.1 0.1 0 0 -0.1 0 0 -0.1 0.1 -0.1 0 0.1 0 -0.1 0 0.1 -0.1 -0.1 0 0"
      y="1167"
      x="596">veters strikken, jas sluiten,</text>
   <text
      style="font-size:22.50000075px;line-height:0%;font-family:Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;fill:#000000;-inkscape-font-specification:'Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
      id="text3185"
-     class="s5_1"
      dx="0 0 0.1 0 -0.1 0.1 -0.1 0 0.1 -0.1 0 0 0 -0.1 0.1 0 0 0 0.1 -0.1 0 0 -0.1"
      y="1190"
      x="615">spullen in de tas doen</text>
@@ -1897,21 +1845,6 @@ SUVORK5CYII=
   <style
      id="style3187"
      type="text/css">
-
-@font-face {
-	font-family: SegoeUIBlack_b;
-	src: url(&quot;signaleringskaart-bronbestanden/fonts/SegoeUIBlack_b.woff&quot;) format(&quot;woff&quot;);
-}
-
-@font-face {
-	font-family: SegoeUIBlack_h;
-	src: url(&quot;signaleringskaart-bronbestanden/fonts/SegoeUIBlack_h.woff&quot;) format(&quot;woff&quot;);
-}
-
-@font-face {
-	font-family: Calibri-Bold_m;
-	src: url(&quot;signaleringskaart-bronbestanden/fonts/Calibri-Bold_m.woff&quot;) format(&quot;woff&quot;);
-}
 
 </style>
 </svg>
