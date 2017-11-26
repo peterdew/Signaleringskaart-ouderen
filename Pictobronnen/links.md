@@ -1,8 +1,12 @@
- 
+
+
 [slipping](https://thenounproject.com/search/?q=slipping)
 
 https://thenounproject.com/search/?q=slipping&i=930401  
 <img src="slipping_930401_cc.svg" width="20%">
+
+<img src="slip_705414_cc.svg" width="20%">
+
 
 Onverzorgd geworden
 
